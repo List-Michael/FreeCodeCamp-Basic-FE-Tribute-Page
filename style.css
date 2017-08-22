@@ -1,0 +1,7 @@
+/* Adding width:100% to the img-responsive class fixed the issue of the image */
+/* being not responsive, even after applying the .img-responsive */
+
+.img-responsive {
+    width:100%;
+    height: 100%;
+}
